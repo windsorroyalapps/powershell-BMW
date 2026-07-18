@@ -1,7 +1,6 @@
 name: e60coder_pro
-description: BMW E60 N52 Hacking Command Center
-version: 4.2.0
-
+description: BMW E60 523i LCI 2007 N52 - Ultimate PowerShell Hacking Beast
+version: 5.0.0-beast
 environment:
   sdk: '>=3.0.0 <4.0.0'
 
@@ -10,9 +9,15 @@ dependencies:
     sdk: flutter
   flutter_blue_plus: ^1.32.0
   usb_serial: ^0.4.0
+  shared_preferences: ^2.2.0
   provider: ^6.1.0
   permission_handler: ^11.0.0
+  charts_flutter: ^0.12.0
+  syncfusion_flutter_gauges: ^25.1.0
+  fluttertoast: ^8.2.0
+  path_provider: ^2.1.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_lints: ^3.0.0
