@@ -1,0 +1,1 @@
+# Full one-liners as previously provided
