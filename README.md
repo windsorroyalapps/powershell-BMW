@@ -1,12 +1,12 @@
-# E60Coder Pro - BMW E60 / N52 Diagnostic & Coding Suite
+# E60Coder Pro - Complete BMW E60 523i LCI Hacking Suite
 
-Professional-grade Flutter Android app + PowerShell + Rust CAN for 2007 BMW E60 523i LCI.
+Full cross-platform diagnostic, coding, and remote upgrade tool.
 
-## Features
-- Full-system diagnostics
-- Live CAN monitoring
-- Guided adaptations (Valvetronic, VANOS, Injector, Battery)
-- Module coding
-- Data logging & export
+Features:
+- Live CAN Sniffer
+- Guided Service Procedures
+- Module Coding
+- Linux Headunit Remote Access with AI
+- Rust CAN Layer
 
-Build: `flutter build apk --release`
+Build with Flutter.

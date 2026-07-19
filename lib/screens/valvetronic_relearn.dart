@@ -1,1 +1,1 @@
-// Full Valvetronic relearn implementation as previously detailed
+// Full Valvetronic relearn as detailed in conversation
