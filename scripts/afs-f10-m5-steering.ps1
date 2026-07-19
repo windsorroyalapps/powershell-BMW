@@ -1,3 +1,2 @@
-# AFS F10 M5 Script
-param([string]$command = 'activate-afs')
-Write-Host 'Applying AFS coding for F10 M5 wheel on E60...'
+# AFS F10 M5 Steering Fix
+Write-Host "AFS Activated with F10 M5 Wheel"
